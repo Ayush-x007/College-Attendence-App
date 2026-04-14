@@ -31,4 +31,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/college-attendance-app.git](https://github.com/yourusername/college-attendance-app.git)
+   git clone https://github.com/Ayush-x007/College-Attendence-App.git
