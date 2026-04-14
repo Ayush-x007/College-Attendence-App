@@ -32,3 +32,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ayush-x007/College-Attendence-App.git
+
+## 📱 Download the App
+Want to test it out? [Download the latest Android APK here](https://github.com/Ayush-x007/College-Attendence-App/releases/latest)
